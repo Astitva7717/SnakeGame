@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-seri;
+    margin: 20px auto;
+    text-align: left;
+    padding-left: 200px;
+    font-size: 150%;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    font-size: 100%;
+    text-align: center;
+    padding: 5px 7px;
+}
+canvas{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 3px 5px 6px lightcoral;
+}
+h1{
+    font-family: cursive;
+}
